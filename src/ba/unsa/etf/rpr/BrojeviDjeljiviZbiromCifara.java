@@ -18,7 +18,6 @@ public class BrojeviDjeljiviZbiromCifara {
 
         Scanner ulaz = new Scanner(System.in);
         int n;
-        int a;
 
         while (true) {
             try {
